@@ -1,3 +1,3 @@
 # NCTS-internship-repo
 
-### Some description
+Some description
